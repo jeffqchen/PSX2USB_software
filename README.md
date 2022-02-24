@@ -1,4 +1,7 @@
 # PSX2USB_software
+
+PSX2USB_software for https://github.com/jeffqchen/PSX2USB_hardware
+
 Currently I'm using the following libraries for the two sides of the communication:
 - https://github.com/MHeironimus/ArduinoJoystickLibrary
 - https://github.com/SukkoPera/PsxNewLib
